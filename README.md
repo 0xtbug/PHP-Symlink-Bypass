@@ -11,8 +11,8 @@ Default pass cgi: xaisyndicate
 # How to use?
 1. Upload this file.
 2. After upload this file.
-3. Click CGI PERL and click here now you can see new tab (CGI PERL).
-4. Click CGI2 PERL and click here now you can see new tab 2 (CGI2 PERL).
+3. Click CGI PERL and (click here) now you can see new tab (CGI PERL).
+4. Click CGI2 PERL and (click here) now you can see new tab 2 (CGI2 PERL).
 5. Go to tab (CGI PERL) and enter the password (password is: xaisyndicate) click submit.
 6. After enter the password click (Command) you can see in top.
 7. Enter this (Command: chmod +x cgi2.gt72) and click enter.
